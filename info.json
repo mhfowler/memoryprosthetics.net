@@ -1,0 +1,21 @@
+{
+	"title": "AST",
+	"logo" : "ast.png",
+	"about" : "",
+	"menu" : {
+		"Home" : "http://newhive.com/kedankedan/ast-binder-web-home-draft",
+		"About" : "https://docs.google.com/document/d/13jrX3EXkvDlMNnT04b1CR-Y9603p_eVRxPrpfrV6NGA/edit",
+		"Projects" : "https://drive.google.com/open?id=1L3xTFbJyPtUxdRDhQYsgrOxZv_9JtiGUhLD-QXDP7dw",
+		"00101" : "https://drive.google.com/open?id=1PWYah-6zu3mnPIngJdOeiGwHdrNGGY1FCWZDv-HCszI",  
+		"00102" : "https://docs.google.com/document/d/1SKblows9VtMJPigIMuT4mGwx0KD17sha_7FNrl0GmJ8/edit",
+		"00103" : "https://docs.google.com/document/d/1jhoRF_Erf4F0flAfEfrsjSx7e1CrN_W1gUpjHi3NaDY/edit",
+		"00201" : "https://docs.google.com/document/d/1OaVTqGBcvc63tSskWK12BuENNGxOqkVes-nR-79TnH0/edit",
+		"00202" : "https://drive.google.com/open?id=1CXWArFCdsSYiL6zLAf_9v9FYciSXJv_B7e47AXzzPCw ",
+		"00203" : "https://www.youtube.com/embed/dwjsZ97hU44",
+
+		"News" : "https://docs.google.com/document/d/1MmIDLqG-Okwr8fExvxDcPTtT9HXjwUXcS_bcIa_56zQ/edit",
+		"Contact": "https://docs.google.com/document/d/1PA7nJUe-e-9gGSSSavpnA-iRpu_Beapw8wX0xaxevm4/edit"
+	}
+}
+
+
