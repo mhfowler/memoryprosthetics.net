@@ -57,6 +57,22 @@ body {
 	margin-left: 30px;
 }
 
+.logo-img {
+	z-index: 20;
+	float:left;
+	margin-left: 30px;
+	top: 60px;
+	width: 100px;
+}
+.img-wrappers {
+	    z-index: 20;
+    /* width: 100%; */
+    position: fixed;
+    margin: auto;
+    padding-left: 168px;
+    padding-top: 44px;
+}
+
 #logo {
 	z-index: 20;
 	position: fixed;
@@ -176,7 +192,7 @@ body {
 		width: 100%;
 	}
 	#background-site{
-		-webkit-overflow-scrolling:touch; 
+		-webkit-overflow-scrolling:touch;
 		overflow:auto;
 	}
 	#background-site iframe{
@@ -203,7 +219,7 @@ body {
 	#navigation{
 		display: none;
 		text-indent: -1.5em;
-		margin-left:1.5em; 
+		margin-left:1.5em;
 		margin-top: 20px;
 	}
 	#menu-open{
