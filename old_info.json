@@ -3,7 +3,8 @@
 	"logo" : "floppy_disk.jpg",
 	"about" : "",
 	"menu" : {
-		"Memory": "https://docs.google.com/document/d/1jLp9YQZEbAoQ9pt_YBKwWNx2_XoeOq-3-OFmP69VY7s/edit",
+//		"Memory": "https://gist.github.com/mhfowler/70ea44b681e4934ad67a810b318a8476",
+		"Memory" : "https://docs.google.com/document/d/1jLp9YQZEbAoQ9pt_YBKwWNx2_XoeOq-3-OFmP69VY7s/edit",
 		"About" : "https://docs.google.com/document/d/1TkAMxDk0wMa48AzUu_SH0RpcjiyC2Db5Ynbg0YYWBhg/edit",
 		"Memex" : "https://www.youtube.com/embed/c539cK58ees"
 	}
