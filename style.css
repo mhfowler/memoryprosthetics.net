@@ -152,6 +152,13 @@ body {
 	top: 155px;
 }
 
+.only-mobile {
+	display: none;
+}
+.only-desktop {
+	display: block;
+}
+
 /* Psuedo mobile styles for wide touch devices */
     .touch-device #menu {
         position: fixed;
@@ -195,6 +202,7 @@ body {
 	}
 /* Real mobile styles for smaller screens */
 @media only screen and (max-width: 768px) {
+
 	body, html{
 	position: relative;
 		width: 100%;
@@ -250,6 +258,16 @@ body {
 	.about{
 		width: auto;
 		display: none;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+	.only-mobile {
+		display:block;
+		font-size: 64px;
+	}
+	.only-desktop {
+		display:none;
 	}
 }
 /* @end */
