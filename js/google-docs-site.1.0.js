@@ -68,7 +68,7 @@ $(function() {
 
 	var window_width = $(window).width();
 	if (window.mobilecheck() === true) {
-			window.location = "https://docs.google.com/document/d/1jLp9YQZEbAoQ9pt_YBKwWNx2_XoeOq-3-OFmP69VY7s"
+			window.location = "https://gist.githubusercontent.com/mhfowler/d611991cbe02b2a118fb2d17bda4f481/raw/fd617967c4526d71950ae7711a0fce8556663cc1/MEMORY%2520PROSTHETICS"
 	}
 
 	//little fix for the iframe size on mobile
