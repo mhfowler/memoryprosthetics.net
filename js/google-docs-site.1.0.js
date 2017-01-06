@@ -68,7 +68,7 @@ $(function() {
 
 	var window_width = $(window).width();
 	if (window.mobilecheck() === true) {
-			window.location = "https://gist.githubusercontent.com/mhfowler/d611991cbe02b2a118fb2d17bda4f481/raw/f106568390238f41cf231ff9adeacb8737b911ef/MEMORY%2520PROSTHETICS"
+			// window.location = "https://gist.githubusercontent.com/mhfowler/d611991cbe02b2a118fb2d17bda4f481/raw/f106568390238f41cf231ff9adeacb8737b911ef/MEMORY%2520PROSTHETICS"
 	}
 
 	//little fix for the iframe size on mobile
