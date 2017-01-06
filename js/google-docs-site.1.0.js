@@ -67,9 +67,7 @@ $(function() {
     });
 
 	var window_width = $(window).width();
-	alert('window_width: ' + window_width);
 	if (window.mobilecheck() === true) {
-			alert('redirecting');
 			window.location = "https://docs.google.com/document/d/1jLp9YQZEbAoQ9pt_YBKwWNx2_XoeOq-3-OFmP69VY7s"
 	}
 
